@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.ngocquan.com/posts/NgocQuan/</loc>
+<lastmod>2024-02-01T02:41:29+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/categories/</loc>
+<lastmod>2024-01-31T23:34:51+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/tags/</loc>
+<lastmod>2024-01-31T23:34:51+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/archives/</loc>
+<lastmod>2024-01-31T23:34:51+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/about/</loc>
+<lastmod>2024-01-31T23:34:51+07:00</lastmod>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/</loc>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/tags/ngocquan/</loc>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/categories/blog-post/</loc>
+</url>
+<url>
+<loc>https://blog.ngocquan.com/categories/math/</loc>
+</url>
+</urlset>
