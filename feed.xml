@@ -1,1 +1,59 @@
-<feed xmlns="http://www.w3.org/2005/Atom"> <id>https://blog.ngocquan.com/</id><title>NgocQuan's Blog</title><subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle> <updated>2024-01-31T23:34:51+07:00</updated> <author> <name>Pham Ngoc Quan</name> <uri>https://blog.ngocquan.com/</uri> </author><link rel="self" type="application/atom+xml" href="https://blog.ngocquan.com/feed.xml"/><link rel="alternate" type="text/html" hreflang="en" href="https://blog.ngocquan.com/"/> <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator> <rights> © 2024 Pham Ngoc Quan </rights> <icon>/assets/img/favicons/favicon.ico</icon> <logo>/assets/img/favicons/favicon-96x96.png</logo> <entry><title>Hello World</title><link href="https://blog.ngocquan.com/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World" /><published>2023-01-31T23:24:25+07:00</published> <updated>2024-02-01T02:41:29+07:00</updated> <id>https://blog.ngocquan.com/posts/NgocQuan/</id> <content src="https://blog.ngocquan.com/posts/NgocQuan/" /> <author> <name>Pham Ngoc Quan</name> </author> <category term="blog post" /> <category term="math" /> <summary> In a quaint village, nestled among verdant hills, there lived a wise old owl known for its profound wisdom. The villagers often sought its advice on matters both trivial and significant. One sunny morning, a young fox, curious and spirited, approached the owl with a question that had puzzled him for days. ‘Wise Owl,’ he began timidly, ‘I’ve been pondering over what makes the moon disappear duri... </summary> </entry> </feed>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>NgocQuan's Blog</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-01-31T23:39:56+07:00</updated>
+  <author>
+    <name>Pham Ngoc Quan</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Pham Ngoc Quan </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World" />
+    <published>2023-01-31T23:24:25+07:00</published>
+  
+    <updated>2024-02-01T02:41:29+07:00</updated>
+  
+    <id>http://localhost:4000/posts/NgocQuan/</id>
+    <content src="http://localhost:4000/posts/NgocQuan/" />
+    <author>
+      <name>Pham Ngoc Quan</name>
+    </author>
+
+  
+    
+    <category term="blog post" />
+    
+    <category term="math" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      In a quaint village, nestled among verdant hills, there lived a wise old owl known for its profound wisdom. The villagers often sought its advice on matters both trivial and significant. One sunny morning, a young fox, curious and spirited, approached the owl with a question that had puzzled him for days. ‘Wise Owl,’ he began timidly, ‘I’ve been pondering over what makes the moon disappear duri...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
