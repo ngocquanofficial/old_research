@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>NgocQuan's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-01-31T23:39:56+07:00</updated>
+  <updated>2024-01-31T23:45:54+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World" />
+    <title>Hello World, I'm NgocQuan</title>
+    <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World, I&amp;apos;m NgocQuan" />
     <published>2023-01-31T23:24:25+07:00</published>
   
     <updated>2024-02-01T02:41:29+07:00</updated>
