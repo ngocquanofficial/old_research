@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>NgocQuan's Blog</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-02-04T23:07:22+07:00</updated>
+  <title>NgocQuan's Research</title>
+  <subtitle>Welcome to my page. Have a nice day! </subtitle>
+  <updated>2024-02-04T23:31:29+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -48,42 +48,31 @@
 
 
 
-      In a quaint village, nestled among verdant hills, there lived a wise old owl known for its profound wisdom. The villagers often sought its advice on matters both trivial and significant. One sunny morning, a young fox, curious and spirited, approached the owl with a question that had puzzled him for days. ‘Wise Owl,’ he began timidly, ‘I’ve been pondering over what makes the moon disappear duri...
-    </summary>
-  
+      This is my page where I will talk about my research about Natural Language Processing and some other interesting mathematics like Linear Algebra, Probability and Statistics, …
 
-  </entry>
 
-  
-  <entry>
-    <title>DeepFake là gì? Nguồn gốc và ảnh hưởng của DeepFake</title>
-    <link href="http://localhost:4000/posts/DeepFake/" rel="alternate" type="text/html" title="DeepFake là gì? Nguồn gốc và ảnh hưởng của DeepFake" />
-    <published>2023-08-20T20:15:00+07:00</published>
-  
-    <updated>2023-08-20T20:15:00+07:00</updated>
-  
-    <id>http://localhost:4000/posts/DeepFake/</id>
-    <content src="http://localhost:4000/posts/DeepFake/" />
-    <author>
-      <name>Pham Ngoc Quan</name>
-    </author>
 
-  
-    
-    <category term="Application" />
-    
-  
+\[e^{i\pi} = -1\]
 
-  
-    <summary>
-      
+
+
+“Lorem ipsum dolor sit amet, \(e^{i\pi} = -1\) consectetur adipiscing elit.”
 
 
 
 
+  \(e^{i\pi} = -1\)
+  \(e^{i\pi} = -1\)
+  \(e^{i\pi} = -1\)
 
-      Deepfake là gì?
-Cái tên Deepfake là kết hợp của “fake” và “deep learning”, nó là một dạng video, ảnh, âm thanh giả, sử dụng các thuật toán Trí tuệ nhân tạo để thay đổi gương mặt, giọng nói hay thậm chí cả cử chỉ, chuyển động của người xuất hiện trong đó một cách chân thật nhất có thể. Bạn đọc có thể xem qua các nội dung Deepfakes ngắn sau trên Youtube để thấy được sự chân thực và khó phân biệt ...
+
+ 
+Image Caption
+
+ 
+Image Caption here
+
+In a quaint vil...
     </summary>
   
 
