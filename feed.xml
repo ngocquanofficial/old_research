@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>NgocQuan's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-02-03T01:33:05+07:00</updated>
+  <updated>2024-02-04T23:07:22+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,42 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Hello World, I'm NgocQuan</title>
+    <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World, I&amp;apos;m NgocQuan" />
+    <published>2024-01-31T23:24:25+07:00</published>
+  
+    <updated>2024-02-04T22:45:39+07:00</updated>
+  
+    <id>http://localhost:4000/posts/NgocQuan/</id>
+    <content src="http://localhost:4000/posts/NgocQuan/" />
+    <author>
+      <name>Pham Ngoc Quan</name>
+    </author>
+
+  
+    
+    <category term="blog post" />
+    
+    <category term="math" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      In a quaint village, nestled among verdant hills, there lived a wise old owl known for its profound wisdom. The villagers often sought its advice on matters both trivial and significant. One sunny morning, a young fox, curious and spirited, approached the owl with a question that had puzzled him for days. ‘Wise Owl,’ he began timidly, ‘I’ve been pondering over what makes the moon disappear duri...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -48,42 +84,6 @@
 
       Deepfake là gì?
 Cái tên Deepfake là kết hợp của “fake” và “deep learning”, nó là một dạng video, ảnh, âm thanh giả, sử dụng các thuật toán Trí tuệ nhân tạo để thay đổi gương mặt, giọng nói hay thậm chí cả cử chỉ, chuyển động của người xuất hiện trong đó một cách chân thật nhất có thể. Bạn đọc có thể xem qua các nội dung Deepfakes ngắn sau trên Youtube để thấy được sự chân thực và khó phân biệt ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Hello World, I'm NgocQuan</title>
-    <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World, I&amp;apos;m NgocQuan" />
-    <published>2023-01-31T23:24:25+07:00</published>
-  
-    <updated>2024-02-01T02:41:29+07:00</updated>
-  
-    <id>http://localhost:4000/posts/NgocQuan/</id>
-    <content src="http://localhost:4000/posts/NgocQuan/" />
-    <author>
-      <name>Pham Ngoc Quan</name>
-    </author>
-
-  
-    
-    <category term="blog post" />
-    
-    <category term="math" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      In a quaint village, nestled among verdant hills, there lived a wise old owl known for its profound wisdom. The villagers often sought its advice on matters both trivial and significant. One sunny morning, a young fox, curious and spirited, approached the owl with a question that had puzzled him for days. ‘Wise Owl,’ he began timidly, ‘I’ve been pondering over what makes the moon disappear duri...
     </summary>
   
 
