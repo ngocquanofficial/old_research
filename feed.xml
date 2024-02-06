@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>NgocQuan's Research</title>
   <subtitle>Welcome to my page. Have a nice day! </subtitle>
-  <updated>2024-02-04T23:31:29+07:00</updated>
+  <updated>2024-02-06T23:28:12+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -20,9 +20,49 @@
 
   
   <entry>
+    <title>Similar Properties of Similarity Matrix</title>
+    <link href="http://localhost:4000/posts/similarity-matrix/" rel="alternate" type="text/html" title="Similar Properties of Similarity Matrix" />
+    <published>2023-08-20T20:00:00+07:00</published>
+  
+    <updated>2023-08-20T20:00:00+07:00</updated>
+  
+    <id>http://localhost:4000/posts/similarity-matrix/</id>
+    <content src="http://localhost:4000/posts/similarity-matrix/" />
+    <author>
+      <name>Pham Ngoc Quan</name>
+    </author>
+
+  
+    
+    <category term="Mathematics" />
+    
+    <category term="Linear Algebra" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Abstract:  Initially I will introduce specific definitions relevant to its topic. Subsequently, it will explore various properties common to similar matrices, such as trace, rank, determinant, among others. Finally, the paper will present criteria for determining whether any two given matrices are similar.
+
+DEFINITIONS
+1.1: SIMILARITY MATRIX
+Two square \(n \times n\) matrices A and B are called...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Hello World, I'm NgocQuan</title>
     <link href="http://localhost:4000/posts/NgocQuan/" rel="alternate" type="text/html" title="Hello World, I&amp;apos;m NgocQuan" />
-    <published>2024-01-31T23:24:25+07:00</published>
+    <published>2023-01-31T23:24:25+07:00</published>
   
     <updated>2024-02-04T22:45:39+07:00</updated>
   
@@ -35,8 +75,6 @@
   
     
     <category term="blog post" />
-    
-    <category term="math" />
     
   
 
