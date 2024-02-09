@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>NgocQuan's Research</title>
   <subtitle>Welcome to my page. Have a nice day! </subtitle>
-  <updated>2024-02-09T15:53:01+07:00</updated>
+  <updated>2024-02-10T02:14:02+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Similar Properties of Similarity Matrix</title>
     <link href="http://localhost:4000/posts/similarity-matrix/" rel="alternate" type="text/html" title="Similar Properties of Similarity Matrix" />
-    <published>2023-08-20T20:00:00+07:00</published>
+    <published>2024-02-10T00:00:00+07:00</published>
   
-    <updated>2023-08-20T20:00:00+07:00</updated>
+    <updated>2024-02-10T00:00:00+07:00</updated>
   
     <id>http://localhost:4000/posts/similarity-matrix/</id>
     <content src="http://localhost:4000/posts/similarity-matrix/" />
