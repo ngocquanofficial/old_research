@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>NgocQuan's Research</title>
   <subtitle>Welcome to my page. Have a nice day! </subtitle>
-  <updated>2024-02-08T13:05:09+07:00</updated>
+  <updated>2024-02-09T08:27:38+07:00</updated>
   <author>
     <name>Pham Ngoc Quan</name>
     <uri>http://localhost:4000/</uri>
@@ -48,11 +48,11 @@
 
 
 
-      Abstract: Initially I will introduce specific definitions relevant to matrix similarity topic. Subsequently, it will explore various properties common to similar matrices, such as trace, rank, determinant, among others. Finally, the paper will present criteria for determining whether any two given matrices are similar.
+      Abstract: Firstly, I will introduce specific definitions relevant to matrix similarity topic. Subsequently, I will explore various common properties of similar matrices, such as trace, rank, determinant, among others. Finally, I will present criteria for determining whether any two given matrices are similar.
 
 DEFINITIONS
 1.1: SIMILARITY MATRIX
-Two square \(n \times n\) matrices A and...
+Two square \(n \times n\) matrices A and B are cal...
     </summary>
   
 
